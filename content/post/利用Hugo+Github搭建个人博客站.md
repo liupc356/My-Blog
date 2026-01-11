@@ -1,6 +1,6 @@
 +++
 date = '2026-01-12T01:17:53+08:00'
-draft = true
+draft = false
 title = '利用Hugo+Github搭建个人博客站'
 +++
 <!--more-->
